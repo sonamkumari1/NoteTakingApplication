@@ -12,8 +12,8 @@ Note Taking App developed using ReactJS and its features.
    <li>React Responsive Modal.</li>
 </ul>
 
-<h1>RunCode:</h1>
-<a http://localhost:5173/ />
+<h2>RunCode:</h2>
+ http://localhost:5173/ 
 
 <h1>ScreenShot:</h1>
 
